@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python synthetic_pro.py --info /data/disk1/hungpham/object-detection-generator/info_test_trash.txt --background_dir /data/disk1/hungpham/object-detection-generator/Str --n 30 --option_blend 2 --output_dir /data/disk1/hungpham/object-detection-generator/output

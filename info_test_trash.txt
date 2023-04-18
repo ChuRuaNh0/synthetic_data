@@ -1,0 +1,10 @@
+logo,/data/disk1/hungpham/object-detection-generator/trash_4d_to_test/trashes_17.png,0
+logo,/data/disk1/hungpham/object-detection-generator/trash_4d_to_test/trashes_7.png,0
+logo,/data/disk1/hungpham/object-detection-generator/trash_4d_to_test/trashes_1.png,0
+logo,/data/disk1/hungpham/object-detection-generator/trash_4d_to_test/trashes_3.png,0
+logo,/data/disk1/hungpham/object-detection-generator/trash_4d_to_test/trashes_11.png,0
+logo,/data/disk1/hungpham/object-detection-generator/trash_4d_to_test/trashes_13.png,0
+logo,/data/disk1/hungpham/object-detection-generator/trash_4d_to_test/trashes_5.png,0
+logo,/data/disk1/hungpham/object-detection-generator/trash_4d_to_test/trashes_6.png,0
+logo,/data/disk1/hungpham/object-detection-generator/trash_4d_to_test/trashes_18.png,0
+logo,/data/disk1/hungpham/object-detection-generator/trash_4d_to_test/trashes_12.png,0

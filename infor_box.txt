@@ -1,0 +1,11 @@
+logo,images1/box_1.png,0
+logo,images1/box_2.png,0
+logo,images1/box_3.png,0
+logo,images1/box_4.png,0
+logo,images1/box_5.png,0
+logo,images1/box_6.png,0
+logo,images1/box_7.png,0
+logo,images1/box_8.png,0
+logo,images1/box_9.png,0
+logo,images1/box_10.png,0
+logo,images1/box_11.png,0

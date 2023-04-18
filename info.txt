@@ -1,0 +1,9 @@
+logo,png/logo-aquacity1.png,0
+logo,png/logo-aquacity2.png,1
+logo,png/logo-novacoffee1.png,2
+logo,png/logo-novacoffee2.png,3
+logo,png/logo-novacoffee3.png,4
+logo,png/logo-novaland.png,5
+sublogo,png/sublogo-novaland.png,png/logo-novaland.png,6
+logo,png/logo-novagroup.png,7
+sublogo,png/sublogo-novagroup.png,png/logo-novagroup.png,6

@@ -1,0 +1,11 @@
+logo,images2/ong/ong_1.png,0
+logo,images2/ong/ong_2.png,0
+logo,images2/ong/ong_3.png,0
+logo,images2/ong/ong_4.png,0
+logo,images2/ong/ong_5.png,0
+logo,images2/ong/ong_6.png,0
+logo,images2/ong/ong_7.png,0
+logo,images2/ong/ong_8.png,0
+logo,images2/ong/ong_9.png,0
+logo,images2/ong/ong_10.png,0
+
